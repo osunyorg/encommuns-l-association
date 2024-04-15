@@ -21,4 +21,8 @@ items:
   target: "/agenda/"
   kind: page
   children: []
+- title: La revue
+  target: https://encommuns.net
+  kind: url
+  children: []
 
