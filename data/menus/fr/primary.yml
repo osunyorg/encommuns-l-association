@@ -14,7 +14,7 @@ items:
   kind: page
   children: []
 - title: La revue
-  target: https://encommuns.net
+  target: https://www.encommuns.net
   kind: url
   children: []
 
