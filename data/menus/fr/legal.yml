@@ -5,4 +5,8 @@ items:
   target: "/mentions-legales/"
   kind: page
   children: []
+- title: Mentions légales
+  target: https://www.encommuns.net/mentions-legales
+  kind: url
+  children: []
 
