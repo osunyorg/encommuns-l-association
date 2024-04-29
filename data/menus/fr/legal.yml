@@ -5,4 +5,8 @@ items:
   target: https://www.encommuns.net/mentions-legales
   kind: url
   children: []
+- title: La revue
+  target: https://www.encommuns.net
+  kind: url
+  children: []
 
