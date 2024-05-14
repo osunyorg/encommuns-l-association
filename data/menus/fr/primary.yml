@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Projets
-  target: "/projets/"
+  target: "/projets-de-recherche/"
   kind: page
   children: []
 - title: Agenda
