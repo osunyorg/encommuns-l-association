@@ -13,6 +13,8 @@ fr:
     events_categories: /seminaires/:slug/
     projects: /projets-de-recherche/:year-:slug/
     projects_categories: /projets-de-recherche/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
