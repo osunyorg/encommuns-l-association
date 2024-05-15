@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: Séminaires
-  target: "/seminaires/"
+  target: "/seminaires/archives/"
   kind: page
   children: []
 
