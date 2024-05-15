@@ -9,8 +9,12 @@ items:
   target: "/projets-de-recherche/"
   kind: page
   children: []
-- title: Séminaires
-  target: "/seminaires/archives/"
-  kind: page
-  children: []
+- title: À propos
+  target: ''
+  kind: blank
+  children:
+  - title: Séminaires
+    target: "/seminaires/archives/"
+    kind: page
+    children: []
 
