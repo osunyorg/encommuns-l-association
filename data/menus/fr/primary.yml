@@ -5,12 +5,12 @@ items:
   target: "/qui-sommes-nous/"
   kind: page
   children: []
-- title: Projets
-  target: "/projets-de-recherche/"
-  kind: page
-  children: []
 - title: Actualités
   target: "/actualites/"
+  kind: page
+  children: []
+- title: Projets
+  target: "/projets-de-recherche/"
   kind: page
   children: []
 - title: Séminaires
