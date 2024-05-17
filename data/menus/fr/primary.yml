@@ -9,7 +9,7 @@ items:
   target: "/projets-de-recherche/"
   kind: page
   children: []
-- title: Séminaires
+- title: Séminaires accomplis
   target: "/seminaires/archives/"
   kind: page
   children: []
