@@ -5,10 +5,6 @@ items:
   target: "/qui-sommes-nous/"
   kind: page
   children: []
-- title: À propos
-  target: ''
-  kind: blank
-  children: []
 - title: Projets
   target: "/projets-de-recherche/"
   kind: page
