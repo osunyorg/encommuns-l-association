@@ -21,4 +21,8 @@ items:
     target: "/seminaires/archives/"
     kind: page
     children: []
+- title: Séminaires à venir
+  target: "/seminaires/"
+  kind: page
+  children: []
 
