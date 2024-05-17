@@ -1,14 +1,14 @@
 ---
 title: Menu principal
 items:
+- title: Qui sommes-nous ?
+  target: "/qui-sommes-nous/"
+  kind: page
+  children: []
 - title: À propos
   target: ''
   kind: blank
-  children:
-  - title: Qui sommes-nous ?
-    target: "/qui-sommes-nous/"
-    kind: page
-    children: []
+  children: []
 - title: Projets
   target: "/projets-de-recherche/"
   kind: page
