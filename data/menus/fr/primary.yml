@@ -9,10 +9,6 @@ items:
   target: "/projets-de-recherche/"
   kind: page
   children: []
-- title: Séminaires accomplis
-  target: "/seminaires/archives/"
-  kind: page
-  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -20,5 +16,9 @@ items:
 - title: Séminaires
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: Séminaires accomplis
+    target: "/seminaires/archives/"
+    kind: page
+    children: []
 
