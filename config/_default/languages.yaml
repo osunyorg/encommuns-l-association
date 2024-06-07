@@ -15,7 +15,7 @@ fr:
     projects: /projets-de-recherche/:year-:slug/
     projects_categories: /projets-de-recherche/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
