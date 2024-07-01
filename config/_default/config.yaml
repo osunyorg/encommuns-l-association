@@ -1,1 +1,3 @@
 theme: encommuns-theme
+params:
+  plausible: association.encommuns.net
