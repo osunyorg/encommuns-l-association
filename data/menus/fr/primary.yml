@@ -9,14 +9,14 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Projets
-  target: "/projets-de-recherche/"
-  kind: page
-  children: []
 - title: Réalisations
   target: ''
   kind: blank
   children:
+  - title: Projets
+    target: "/projets-de-recherche/"
+    kind: page
+    children: []
   - title: Séminaires à venir
     target: "/seminaires/"
     kind: page
