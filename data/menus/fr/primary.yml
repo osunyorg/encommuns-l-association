@@ -13,7 +13,7 @@ items:
   target: "/projets-de-recherche/"
   kind: page
   children: []
-- title: Séminaires
+- title: Réalisations
   target: ''
   kind: blank
   children:
