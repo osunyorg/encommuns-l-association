@@ -5,11 +5,13 @@ items:
   target: "/a-propos/"
   kind: page
   children: []
+  path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Actualités des membres
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Réalisations
   target: ''
@@ -19,15 +21,18 @@ items:
     target: "/projets-de-recherche/"
     kind: page
     children: []
+    path: "/projects"
     file: content/fr/projects/_index.html
   - title: Séminaires à venir
     target: "/seminaires/"
     kind: page
     children: []
+    path: "/events"
     file: content/fr/events/_index.html
   - title: Séminaires accomplis
     target: "/seminaires/archives/"
     kind: page
     children: []
+    path: "/events/archives"
     file: content/fr/events/archives/_index.html
 
