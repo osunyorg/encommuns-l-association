@@ -8,7 +8,7 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Actualités des membres
+- title: Actualités
   target: "/actualites/"
   kind: page
   new_tab: false
