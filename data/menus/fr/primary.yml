@@ -8,18 +8,18 @@ items:
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 - title: Réalisations
   target: ''
   kind: blank
   new_tab: false
   children:
+  - title: Actualités
+    target: "/actualites/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/posts"
+    file: content/fr/posts/_index.html
   - title: Projets de recherche
     target: "/projets-de-recherche/"
     kind: page
