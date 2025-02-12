@@ -2,6 +2,11 @@
 
 baseURL: https://association.encommuns.net
 
+## OSUNY
+osuny:
+  website:
+    id: d3710e06-5bc9-426d-860e-c82d301e37b6
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
