@@ -2,13 +2,17 @@
 title: Informations légales
 items:
 - title: Mentions légales
+  slug: mentions-legales
   target: https://www.encommuns.net/mentions-legales
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: La revue
+  slug: la-revue
   target: https://www.encommuns.net
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

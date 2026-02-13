@@ -2,43 +2,57 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Réalisations
+  slug: realisations
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Projets de recherche
+    slug: projets-de-recherche
     target: "/projets-de-recherche/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/projects"
     file: content/fr/projects/_index.html
   - title: Séminaires à venir
+    slug: seminaires-a-venir
     target: "/seminaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/events"
     file: content/fr/events/_index.html
   - title: Séminaires accomplis
+    slug: seminaires-accomplis
     target: "/seminaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/events/archives"
     file: content/fr/events/archives/_index.html
+  descendants_targets:
+  - "/projets-de-recherche/"
+  - "/seminaires/"
 
