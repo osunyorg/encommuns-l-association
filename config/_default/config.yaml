@@ -1,5 +1,7 @@
 theme: encommuns-theme
 params:
+  debug:
+    productionUrl: https://association.encommuns.net
   plausible: association.encommuns.net
   posts:
     index:
