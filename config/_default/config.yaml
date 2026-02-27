@@ -1,3 +1,4 @@
+_merge: deep
 theme: encommuns-theme
 params:
   debug:
