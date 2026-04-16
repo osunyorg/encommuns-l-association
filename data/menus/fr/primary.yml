@@ -45,7 +45,7 @@ items:
     file: content/fr/events/_index.html
   - title: Séminaires accomplis
     slug: seminaires-accomplis
-    target: "/seminaires/"
+    target: "/seminaires/archives/"
     kind: page
     new_tab: false
     children: []
@@ -55,4 +55,5 @@ items:
   descendants_targets:
   - "/projets-de-recherche/"
   - "/seminaires/"
+  - "/seminaires/archives/"
 
