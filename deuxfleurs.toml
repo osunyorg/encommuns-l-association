@@ -13,3 +13,36 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/agenda/"
+to = "/seminaires/"
+
+[[redirects]]
+from = "/qui-sommes-nous/"
+to = "/a-propos/"
+
+[[redirects]]
+from = "/seminaires/2022-06-07-seminaires-de-recherche-encommuns-tapas-communs-communautes-et-interet-general/"
+to = "/seminaires/2022/seminaires-de-recherche-encommuns-tapas-communs-communautes-et-interet-general/"
+
+[[redirects]]
+from = "/projets-de-recherche/2019-tapas-there-are-palteforms-as-alternatives/"
+to = "/projets-de-recherche/2019-tapas-there-are-platforms-as-alternatives/"
+
+[[redirects]]
+from = "/agenda/archives/"
+to = "/seminaires/archives/"
+
+[[redirects]]
+from = "/projets/"
+to = "/projets-de-recherche/"
+
+[[redirects]]
+from = "/seminaires/2015-11-18-seminaires-de-recherche-encommuns-2015-2019/"
+to = "/seminaires/2015/seminaires-de-recherche-encommuns-2015-2019/"
+
+[[redirects]]
+from = "/projets/2010-propriete-intellectuelle-communs-et-exclusivite/"
+to = "/projets-de-recherche/2010-propriete-intellectuelle-communs-et-exclusivite/"
+
