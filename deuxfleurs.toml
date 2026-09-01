@@ -23,6 +23,10 @@ from = "/qui-sommes-nous/index.html"
 to = "/a-propos/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/benjamin-coriat-intvw-2024pdf/"
+
+[[redirects]]
 from = "/seminaires/2022-06-07-seminaires-de-recherche-encommuns-tapas-communs-communautes-et-interet-general/index.html"
 to = "/seminaires/2022/seminaires-de-recherche-encommuns-tapas-communs-communautes-et-interet-general/"
 
